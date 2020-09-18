@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d01b9a14-da25-4fa3-94b4-7abf9d0c2e5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1he2MlNyLB89RbwZ3AKS227GvKV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Farna\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d01b9a14-da25-4fa3-94b4-7abf9d0c2e5a" name="Default Changelist" comment="" />
+      <created>1600357193361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600357193361</updated>
+      <workItem from="1600357194831" duration="1311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1600357244864">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600357244864" />
+    <state x="561" y="266" key="Github.ShareDialog" timestamp="1600357343551">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="561" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1600357343551" />
+    <state x="-27" y="0" key="SettingsEditor" timestamp="1600414208582">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="-27" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1600414208582" />
+    <state x="513" y="159" key="svn.repositoryBrowser" timestamp="1600357253313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="159" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1600357253313" />
+    <state x="506" y="142" key="svn4idea.import.options" timestamp="1600357250135">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="506" y="142" key="svn4idea.import.options/0.0.1366.738@0.0.1366.738" timestamp="1600357250135" />
+  </component>
+</project>
