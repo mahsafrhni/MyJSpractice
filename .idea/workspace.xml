@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d01b9a14-da25-4fa3-94b4-7abf9d0c2e5a" name="Default Changelist" comment="done">
+    <list default="true" id="d01b9a14-da25-4fa3-94b4-7abf9d0c2e5a" name="Default Changelist" comment="git profile theme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600357193361</updated>
-      <workItem from="1600357194831" duration="5659000" />
+      <workItem from="1600357194831" duration="6002000" />
+      <workItem from="1600496859104" duration="1395000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1600420180231</created>
@@ -54,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600420180231</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second video, just practicing datatypes and alert">
+      <created>1600422332923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600422332923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git profile theme">
+      <created>1600422370293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600422370293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,7 +78,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="second video, just practicing datatypes and alert" />
+    <MESSAGE value="git profile theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="git profile theme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1600357244864">
@@ -81,10 +99,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="-27" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1600414208582" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1600420190120">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1600422379030">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1600420190120" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1600422379030" />
     <state x="513" y="159" key="svn.repositoryBrowser" timestamp="1600357253313">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
